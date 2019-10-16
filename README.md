@@ -5,10 +5,10 @@
   int a,b;
   if(a==b)
     {
-    print(a);
+    print(a)
     break;
     }
     else
     {
     print(b);
-    }
+    
